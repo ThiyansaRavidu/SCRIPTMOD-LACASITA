@@ -1,5 +1,6 @@
 # SCRIPTMOD-LACASITA
-
+This using wecan do make dialog zero
+https://www.youtube.com/watch?v=m20gKJRj8pM
 # desarrollador
 Adm ultimate 8th 
 ## desarrollador MOD
